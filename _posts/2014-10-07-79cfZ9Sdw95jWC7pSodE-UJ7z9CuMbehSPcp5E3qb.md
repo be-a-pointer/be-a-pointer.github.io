@@ -1,4 +1,7 @@
-# YCombinator Demo
+---
+layout: default
+title: YCombinator Demo
+---
 
 Wellcome to Metis Project.
 
