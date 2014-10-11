@@ -18,4 +18,6 @@ Examples of things you can ask:
 - how will you make money?
 - ... or just improvise! ;)
 
+Notice that we're resilient to typos, try sending **"do you have any csutomrs?"**
+
 _please bear in mind that this is just a very simple demo to give you a glimpse of what is Metis_
