@@ -16,3 +16,4 @@ This is a demo of a basic AIML based Bot created for YCombinator.
 - how will you make money?
 - ... or just improvise! ;)
 
+_please bear in mind that this is just a very simple demo to give you a glimpse of what is Metis_
